@@ -46,7 +46,7 @@
     <message>
         <location filename="../../../include/Algo/array2dinterpol.h" line="+100"/>
         <source>Gridding</source>
-        <translation>网格化</translation>
+        <translation>网格化This is edited by Prajjaval Singh</translation>
     </message>
 </context>
 <context>
